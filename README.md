@@ -24,7 +24,7 @@
   * PowerMock <br/>
       -https://github.com/powermock/powermock <br/>
       
-### BDD - UI tests (Android) <br/>
+## BDD - UI tests (Android) <br/>
 
   * Gherkin (Cucamber) <br/>
       -https://github.com/cucumber/cucumber/wiki/Gherkin <br/>
@@ -40,7 +40,7 @@
       -https://news.realm.io/news/kau-jake-wharton-testing-robots/ <br/>
       -http://jakewharton.com/testing-robots/ <br/>
       
-#### Mocking backend (Andrid) <br/>
+## Mocking backend (Andrid) <br/>
 
   * WireMock <br/>
       -http://wiremock.org/ <br/>
