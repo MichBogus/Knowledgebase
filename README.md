@@ -7,6 +7,11 @@
       -https://developer.android.com/guide/platform/j8-jack.html <br/>
       -https://android.jlelse.eu/features-of-revolutionary-release-java-8-for-android-d8abe06c34c5 <br/>
       -https://source.android.com/source/jack <- Jack compiler to support Java 8 in Android. Now it is depracted as Google decided to add support for Java 8 language features directly into the current javac and dx set of tools (https://android-developers.googleblog.com/2017/03/future-of-java-8-language-feature.html). <br/>
+  * Kotlin <br/>
+      -https://kotlinlang.org/ <br/>
+      -https://kotlinlang.org/docs/reference/ <br/>
+      -https://kotlinlang.org/docs/kotlin-docs.pdf <br/>
+      -https://android.jlelse.eu/kotlin-best-features-a3facac4d6fd <br/>
 
 ## TDD - Unit tests (Android) <br/>
 
