@@ -21,6 +21,8 @@
       -https://github.com/robolectric/robolectric <br/>
   * Unmock (just for Android stuff testing, library tries to solve the problem that you have to mock each and every Android SDK class) <br/>
       -https://github.com/bjoernQ/unmock-plugin <br/>
+  * PowerMock <br/>
+      -https://github.com/powermock/powermock <br/>
       
 ### BDD - UI tests (Android) <br/>
 
