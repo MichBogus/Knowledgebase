@@ -39,5 +39,11 @@
   * Testing Robots architacture by Jake Wharton <br/>
       -https://news.realm.io/news/kau-jake-wharton-testing-robots/ <br/>
       -http://jakewharton.com/testing-robots/ <br/>
+      
+#### Mocking backend (Andrid) <br/>
+
+  * WireMock <br/>
+      -http://wiremock.org/ <br/>
+      -https://github.com/tomakehurst/wiremock <br/>
   
       
