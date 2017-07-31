@@ -1,11 +1,11 @@
 # Knwoledge
 <br/>
 1) Unit tests (Android)<br/>
-    *Mockito <br/>
+    * Mockito <br/>
       -https://github.com/mockito/mockito <br/>
       -https://www.youtube.com/watch?v=DJDBl0vURD4<br/>
       -https://www.tutorialspoint.com/mockito/<br/>
-    *AssertJ<br/>
+    *AssertJ*<br/>
       -https://github.com/joel-costigliola/assertj-core<br/>
       -http://joel-costigliola.github.io/assertj/<br/>
     *JUnit4<br/>
