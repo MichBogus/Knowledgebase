@@ -54,10 +54,20 @@
       -https://news.realm.io/news/kau-jake-wharton-testing-robots/ <br/>
       -http://jakewharton.com/testing-robots/ <br/>
       
-## Mocking backend (Andrid) <br/>
+## Mocking backend (Android) <br/>
 
   * WireMock <br/>
       -http://wiremock.org/ <br/>
       -https://github.com/tomakehurst/wiremock <br/>
-  
       
+## REST WS (Android) <br/>
+
+  * Retrofit <br/>
+  * OkHttp <br/>
+  
+## Crazy UI / UX libraries (Android) <br/>
+      
+## Internal testing (QA) <br/>
+
+  * TestRail <br/>
+      -http://www.gurock.com/testrail/ <br/>
