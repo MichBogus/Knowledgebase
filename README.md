@@ -89,3 +89,10 @@
 
   * TestRail <br/>
       -http://www.gurock.com/testrail/ <br/>
+      
+## Continuous Integration <br/>
+  
+  * Jenkins <br/>
+      -https://jenkins.io/ <br/>
+  * Travis <br/>
+      -https://travis-ci.org/ <br/>
