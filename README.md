@@ -12,6 +12,13 @@
       -https://kotlinlang.org/docs/reference/ <br/>
       -https://kotlinlang.org/docs/kotlin-docs.pdf <br/>
       -https://android.jlelse.eu/kotlin-best-features-a3facac4d6fd <br/>
+      
+## RX <br/>
+
+  * RxJava <br/>
+      -https://github.com/ReactiveX/RxJava <br/>
+  * RxAndroid <br/>
+      -https://github.com/ReactiveX/RxAndroid <br/>
 
 ## TDD - Unit tests (Android) <br/>
 
@@ -63,7 +70,11 @@
 ## REST WS (Android) <br/>
 
   * Retrofit <br/>
+      -https://medium.com/3xplore/handling-api-calls-using-retrofit-2-and-rxjava-2-1871c891b6ae <br/>
+      -Converters https://github.com/square/retrofit/tree/master/retrofit-converters/gson <br/>
   * OkHttp <br/>
+      -http://square.github.io/okhttp/ <br/>
+      -Funny article https://stackoverflow.com/questions/32687921/using-rxjava-and-okhttp <br/>
   
 ## Crazy UI / UX libraries (Android) <br/>
       
