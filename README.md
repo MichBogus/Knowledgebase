@@ -75,6 +75,13 @@
   * OkHttp <br/>
       -http://square.github.io/okhttp/ <br/>
       -Funny article https://stackoverflow.com/questions/32687921/using-rxjava-and-okhttp <br/>
+      
+## Parsers <br/>
+ 
+  * GSON <br/>
+      -https://github.com/google/gson <br/>
+  * Simple XML <br/>
+      -http://simple.sourceforge.net/ <br/>
   
 ## Crazy UI / UX libraries (Android) <br/>
       
