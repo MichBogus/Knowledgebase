@@ -96,3 +96,8 @@
       -https://jenkins.io/ <br/>
   * Travis <br/>
       -https://travis-ci.org/ <br/>
+
+## THINGS TO LEARN / USE <br/>
+
+  * Koin <br/>
+      -https://android.jlelse.eu/moving-from-dagger-to-koin-simplify-your-android-development-e8c61d80cddb <br/>
