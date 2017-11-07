@@ -101,3 +101,5 @@
 
   * Koin <br/>
       -https://android.jlelse.eu/moving-from-dagger-to-koin-simplify-your-android-development-e8c61d80cddb <br/>
+  * RIB <br/>
+      -https://github.com/uber/RIBs <br/>
